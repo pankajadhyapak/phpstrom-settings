@@ -4,6 +4,7 @@
       <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
+      <removed_mapping ext="ctp" approved="true" type="PHP" />
       <mapping pattern="working-with-the-current-tenant" type="PLAIN_TEXT" />
       <mapping pattern="installing-via-the-1-click-do-installer" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
