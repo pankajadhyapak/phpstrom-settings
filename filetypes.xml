@@ -5,8 +5,8 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
       <removed_mapping ext="ctp" approved="true" type="PHP" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="create_dashboard_tiles_table" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env-flare" type="PLAIN_TEXT" />
       <mapping pattern="determining-the-current-tenant" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
