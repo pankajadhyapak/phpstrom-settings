@@ -10,6 +10,7 @@
         <option name="suppressed">
           <set>
             <option value="a write" />
+            <option value="but" />
           </set>
         </option>
       </SuppressingContext>
