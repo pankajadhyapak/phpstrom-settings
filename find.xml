@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src'" />
-    <option name="defaultScopeName" value="Directory '.../src'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src'" />
+    <option name="customScope" value="Project 'delivery-regions-service'" />
+    <option name="defaultScopeName" value="Project 'delivery-regions-service'" />
+    <option name="SEARCH_SCOPE" value="Project 'delivery-regions-service'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
